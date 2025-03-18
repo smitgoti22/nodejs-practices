@@ -1,0 +1,17 @@
+Rest api - json 
+
+GET api/users - for web app   - done
+GET users - for mobile app    - done 
+
+GET /user/1 - get user by id
+GET /user/2 - get user by id
+-->> use the : to make it dynamic.
+GET /user/:id - get user by dynamic id    - done
+
+POST api/users - create user 
+
+PATCH /user/1 - Edit the user  with ID 1
+
+DELETE /users/1 - delete the user id 1 
+
+
